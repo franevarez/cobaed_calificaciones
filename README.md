@@ -1,4 +1,4 @@
-cobaed_calificasiones
+cobaed_calificaciones
 =====================
 
 Programa para ayudar a la gestion y apoyo de las calificaciones del cobaed
