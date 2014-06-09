@@ -1,9 +1,13 @@
 cobaed_calificaciones
 =====================
 
-Programa para ayudar a la gestion y apoyo de las calificaciones del cobaed
+Programa para ayudar a la gestión y apoyo de las calificaciones del cobaed
 
-Este programa fue elavorado en python3 no se recomienda su uso en python2
-Este programa esta disponible en dos verciones en la terminal multiplataforama y una GUI multiplataforma
-
+Este programa fue elaborado en python3 no se recomienda su uso en python2, este programa esta disponible en dos versiones, en la terminal multiplataforama y una GUI multiplataforma
+_____________________
+Autor:
+---------------------
+Francisco Javier Nevarez Bustamante (@franevarez)
+_____________________
 programa bajo la licencia GPL v3
+---------------------
