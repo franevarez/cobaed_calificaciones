@@ -1,5 +1,6 @@
-﻿#!/usr/bin/env python3
-#encoding: utf-8
+#!/usr/bin/env python3
+# -*- encoding: utf-8 -*-
+# programa bajo la licencia GPL v3 #
 print ('''Bienvenido a este pro-mediador de calificaciones 
 de cobaed por favor ingresa tus datos
 ''')
