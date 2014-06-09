@@ -7,7 +7,7 @@ Este programa fue elaborado en python3 no se recomienda su uso en python2, este 
 _____________________
 Autor:
 ---------------------
-Francisco Javier Nevarez Bustamante (@franevarez)
+Francisco Javier Nevarez Bustamante ([@franevarez](http://twitter.com/franevarez))
 _____________________
 programa bajo la licencia GPL v3
 ---------------------
